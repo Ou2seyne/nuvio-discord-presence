@@ -1,0 +1,1 @@
+{"name":"Discord Presence","version":"1.0.0","scrapers":[{"id":"discord-presence","name":"Discord Presence","description":"Active la Rich Presence Discord (necessite le programme local).","version":"1.0.0","filename":"discord-presence.js","supportedTypes":["movie","tv"],"enabled":true}]}
